@@ -34,3 +34,5 @@
 | 28 | Mathematical Algorithms in CS <ul><li>Number Theory</li><li>Combinatorics</li></ul> |
 | 29 | Advanced Topics and Trends <ul><li>Machine Learning Algorithms Overview</li><li>Data Structures in AI and Big Data</li></ul> |
 | 30 | Wrap-Up and Future Path <ul><li>Review of Key Concepts</li><li>Resources for Continued Learning</li></ul> |
+
+</p>
