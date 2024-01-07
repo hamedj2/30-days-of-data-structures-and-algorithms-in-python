@@ -1,7 +1,7 @@
 # 30-Day Plan for Data Structures and Algorithms in Python
 
 | Day | Topics |
-|-----|--------|
+|-----|-------------------------------------------------------------------------------------------------------------------------------|
 | 1 | Introduction to Data Structures and Algorithms in Python <ul><li>Overview of Python</li><li>Importance of Data Structures and Algorithms</li></ul> |
 | 2 | Complexity Analysis <ul><li>Understanding Time Complexity</li><li>Space Complexity Basics</li></ul> |
 | 3 | Arrays and Strings <ul><li>Array Operations</li><li>String Manipulation</li></ul> |
