@@ -5,7 +5,7 @@ Hi everyone! I'm working on '30 Days of Data Structures and Algorithms in Python
 <table style="width: 100%;">
 <thead>
 <tr>
-<th>Day</th>
+<th> </th>
 <th>Topics</th>
 </tr>
 </thead>
