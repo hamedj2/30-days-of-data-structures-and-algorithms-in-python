@@ -13,8 +13,8 @@ Hi everyone! I'm working on '30 Days of Data Structures and Algorithms in Python
 
 <!-- Day 1 -->
 <tr>
-<td>1</td>
-<td><a href="[URL_OF_THE_LINK](.\README..md)">Introduction to Data Structures and Algorithms in Python</a> 
+<a href="[URL_OF_THE_LINK](.\README..md)">1</a>
+<td>Introduction to Data Structures and Algorithms in Python 
 <ul>
 <li>Overview of Python</li>
 <li>Importance of Data Structures and Algorithms</li>
