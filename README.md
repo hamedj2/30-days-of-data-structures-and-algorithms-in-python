@@ -13,7 +13,7 @@ Hi everyone! I'm working on '30 Days of Data Structures and Algorithms in Python
 
 <!-- Day 1 -->
 <tr>
-<td>[1](https://github.com/hamedj2/30-days-of-data-structures-and-algorithms-in-python/blob/main/Day%201%20-%20Introduction%20to%20Data%20Structures%20and%20Algorithms%20in%20Python/Day%201.md)</td>
+<td>1</td>
 <td>Introduction to Data Structures and Algorithms in Python <ul><li>Overview of Python</li><li>Importance of Data Structures and Algorithms</li></ul></td>
 </tr>
 
