@@ -13,7 +13,7 @@ Hi everyone! I'm working on '30 Days of Data Structures and Algorithms in Python
 
 <!-- Day 1 -->
 <tr>
-<a href="[URL_OF_THE_LINK](.\README..md)">1</a>
+<td><a href="[URL_OF_THE_LINK](.\README..md)">1</a></td>
 <td>Introduction to Data Structures and Algorithms in Python 
 <ul>
 <li>Overview of Python</li>
