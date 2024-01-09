@@ -13,3 +13,7 @@ Use [python.org](https://www.python.org/downloads/macos/) to install on macOS or
 
 <img src='/Files/Images/Linux-icon.png' width='30' align='center'> </img>
 **Linux:** Python is usually pre-installed. Verify by typing `python3 --version` in the terminal. If not, use your package manager, like `sudo apt install python3` for Ubuntu.
+
+## python Basic Operations
+
+
