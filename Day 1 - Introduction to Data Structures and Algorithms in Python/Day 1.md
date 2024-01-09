@@ -24,8 +24,24 @@ Use [python.org](https://www.python.org/downloads/macos/) to install on macOS or
 - [ ] Division -> ` / ` Divides one number by another, yielding a _floating-point_ result. <br>
 - [ ] Floor Division -> ` // ` Performs division but rounds down to the nearest _integer_. <br>
 - [ ] Modulus -> ` % ` Returns the remainder of a division. <br>
-- [ ] Exponentiation ` ** ` Raises a number to the power of another number. <br>
+- [ ] Exponentiation -> ` ** ` Raises a number to the power of another number. <br>
 
+<details>
+<summary>
+<strong>Examples for Arithmetic Operations</strong>  
+</summary>
+   
+```python
+print(5 + 3)  # 8
+print(10 - 2)  # 8
+print(4 * 2)  # 8
+print(16 / 2)  # 8.0
+print(17 // 2)  # 8
+print(18 % 10)  # 8
+print(2 ** 3)  # 8
+```
+
+</details>
 
 
 ### Comparison Operations
@@ -37,11 +53,38 @@ Use [python.org](https://www.python.org/downloads/macos/) to install on macOS or
 - [ ] Greater Than or Equal To -> ` >= ` Checks if the first value is greater than or equal to the second. <br>
 - [ ] Less Than or Equal To -> ` <= ` Checks if the first value is less than or equal to the second. <br>
 
+<details>
+<summary>
+<strong>Examples for Comparison Operations</strong>  
+</summary>
+  
+```python
+print(8 == 8)  # True
+print(7 != 8)  # True
+print(9 > 8)  # True
+print(7 < 8)  # True
+print(8 >= 8)  # True
+print(8 <= 8)  # True
+```
+</details>
+
 ### Logical Operations
 
 - [ ] And -> ` and ` Returns True if both operands are true. <br>
 - [ ] Or -> ` or ` Returns True if at least one operand is true. <br>
 - [ ] Not -> ` not ` Negates the boolean value. <br>
+
+<details>
+<summary>
+<strong>Examples for Logical Operations</strong>  
+</summary>
+  
+```python
+print(True and False)  # False
+print(True or False)  # True
+print(not True)  # False
+```
+</details>
 
 ### Bitwise Operations
 
@@ -76,5 +119,13 @@ Example: 5 (101 in binary) shifted left by 1 place (1010 in binary) is 10 in dec
 
 - `Right Shift (>>):` Moves all the bits in a number to the right by a certain number of places. This is like dividing the number by 2 for each shift.  
 Example: 5 (101 in binary) shifted right by 1 place (010 in binary) is 2 in decimal.
+```python
+print(5 & 3)  # 1
+print(5 | 3)  # 7
+print(5 ^ 3)  # 6
+print(~5)  # -6
+print(5 << 1)  # 10
+print(5 >> 1)  # 2
+```
 </details>
 
