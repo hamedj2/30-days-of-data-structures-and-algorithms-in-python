@@ -45,10 +45,36 @@ Use [python.org](https://www.python.org/downloads/macos/) to install on macOS or
 
 ### Bitwise Operations
 
+
+
 - [ ] AND -> ` & ` Performs a bitwise AND. <br>
 - [ ] OR -> ` | ` Performs a bitwise OR. <br>
 - [ ] XOR -> ` ^ ` Performs a bitwise XOR. <br>
 - [ ] NOT -> ` ~ ` Performs a bitwise NOT. <br>
 - [ ] Left Shift -> ` << ` Shifts bits to the left. <br>
 - [ ] Right Shift -> ` >> ` Shifts bits to the right. <br>
+
+<details>
+<summary>
+<strong>What Are Bitwise Operations?</strong>  
+</summary>
+
+- `AND (&):` Compares two numbers bit by bit. The result is 1 for each bit where both numbers have a 1. Otherwise, it's 0.  
+Example: For 5 (101 in binary) & 3 (011 in binary), only the last bit matches (1 & 1 = 1), so the result is 001 or 1 in decimal.
+
+- `OR (|):`Compares bit by bit. If at least one of the two numbers has a 1 in a particular position, the result gets a 1 in that position.  
+Example: For 5 (101 in binary) | 3 (011 in binary), the result is 111 or 7 in decimal, since in each position at least one of the numbers has a 1.
+
+- `XOR (^):` This is a bit like OR, but if both numbers have a 1 in the same position, the result gets a 0 in that position.  
+Example: For 5 (101 in binary) ^ 3 (011 in binary), the result is 110 or 6 in decimal. This is because the first and last bits are different in the two numbers.
+
+- `NOT (~):`This flips all the bits of a number. If a bit is 1, it becomes 0, and vice versa.
+Example: For ~5, every bit in 5 (101 in binary) is flipped, resulting in 010 in binary (or 2 in decimal, but note that Python handles this operation a bit differently due to how it represents negative numbers).
+
+- `Left Shift (<<):` Moves all the bits in a number to the left by a certain number of places (specified by you). This is like multiplying the number by 2 for each shift.  
+Example: 5 (101 in binary) shifted left by 1 place (1010 in binary) is 10 in decimal.
+
+- `Right Shift (>>):` Moves all the bits in a number to the right by a certain number of places. This is like dividing the number by 2 for each shift.  
+Example: 5 (101 in binary) shifted right by 1 place (010 in binary) is 2 in decimal.
+</details>
 
