@@ -216,4 +216,4 @@ Hi everyone! I'm working on '30 Days of Data Structures and Algorithms in Python
 </div>
 
 > [!NOTE]
-> This tutorial is a crash course. I tried to cover as much as I can but it's not a comprehensive tutorial.
+> This tutorial serves as an intensive crash course. While I've endeavored to cover a broad range of topics, please note that it's not a comprehensive tutorial.
