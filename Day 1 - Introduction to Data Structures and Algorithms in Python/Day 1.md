@@ -18,13 +18,15 @@ Use [python.org](https://www.python.org/downloads/macos/) to install on macOS or
 
 ### Arithmetic Operations
 
-`Addition (+)`  Sums two numbers. <br>
-`Subtraction (-):` Deducts one number from another. <br>
+- [ ] Addition ` (+) `  Sums two numbers. <br>
+- [ ] Subtraction ` (-) ` Deducts one number from another. <br>
 `Multiplication (*):` Multiplies two numbers. <br>
 `Division (/):` Divides one number by another, yielding a floating-point result. <br>
 `Floor Division (//):` Performs division but rounds down to the nearest integer. <br>
 `Modulus (%):` Returns the remainder of a division. <br>
 `Exponentiation (**):` Raises a number to the power of another number. <br>
+
+
 
 ### Comparison Operations
 
