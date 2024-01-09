@@ -6,5 +6,7 @@ Python, renowned for its readability and efficiency, is a high-level, interprete
 ### Installing Python:
 
 **Windows:** Download from python.org, choose the installer, and follow the prompts. Ensure you tick 'Add Python to PATH'.
+
 **MacOS:** Use Homebrew: brew install python or download from python.org.
+
 **Linux:** Python is usually pre-installed. Verify by typing python3 --version in the terminal. If not, use your package manager, like sudo apt install python3 for Ubuntu.
