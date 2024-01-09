@@ -18,34 +18,35 @@ Use [python.org](https://www.python.org/downloads/macos/) to install on macOS or
 
 ### Arithmetic Operations
 
-Addition (+): Sums two numbers.
-Subtraction (-): Deducts one number from another.
-Multiplication (*): Multiplies two numbers.
-Division (/): Divides one number by another, yielding a floating-point result.
-Floor Division (//): Performs division but rounds down to the nearest integer.
-Modulus (%): Returns the remainder of a division.
-Exponentiation (**): Raises a number to the power of another number.
+**`Addition (+)`**  Sums two numbers. <br>
+**`Subtraction (-):`** Deducts one number from another. <br>
+Multiplication (*): Multiplies two numbers. <br>
+Division (/): Divides one number by another, yielding a floating-point result. <br>
+Floor Division (//): Performs division but rounds down to the nearest integer. <br>
+Modulus (%): Returns the remainder of a division. <br>
+Exponentiation (**): Raises a number to the power of another number. <br>
 
 ### Comparison Operations
 
-Equal (==): Checks if two values are equal.
-Not Equal (!=): Checks if two values are not equal.
-Greater Than (>): Checks if the first value is greater than the second.
-Less Than (<): Checks if the first value is less than the second.
-Greater Than or Equal To (>=): Checks if the first value is greater than or equal to the second.
-Less Than or Equal To (<=): Checks if the first value is less than or equal to the second.
+Equal (==): Checks if two values are equal. <br>
+Not Equal (!=): Checks if two values are not equal. <br>
+Greater Than (>): Checks if the first value is greater than the second. <br>
+Less Than (<): Checks if the first value is less than the second. <br>
+Greater Than or Equal To (>=): Checks if the first value is greater than or equal to the second. <br>
+Less Than or Equal To (<=): Checks if the first value is less than or equal to the second. <br>
 
 ### Logical Operations
 
-And (and): Returns True if both operands are true.
-Or (or): Returns True if at least one operand is true.
-Not (not): Negates the boolean value.
-Bitwise Operations
+And (and): Returns True if both operands are true. <br>
+Or (or): Returns True if at least one operand is true. <br>
+Not (not): Negates the boolean value. <br>
 
-AND (&): Performs a bitwise AND.
-OR (|): Performs a bitwise OR.
-XOR (^): Performs a bitwise XOR.
-NOT (~): Performs a bitwise NOT.
-Left Shift (<<): Shifts bits to the left.
-Right Shift (>>): Shifts bits to the right.
+### Bitwise Operations
+
+AND (&): Performs a bitwise AND. <br>
+OR (|): Performs a bitwise OR. <br>
+XOR (^): Performs a bitwise XOR. <br>
+NOT (~): Performs a bitwise NOT. <br>
+Left Shift (<<): Shifts bits to the left. <br>
+Right Shift (>>): Shifts bits to the right. <br>
 
