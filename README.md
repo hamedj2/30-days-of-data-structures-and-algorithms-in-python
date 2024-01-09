@@ -214,3 +214,6 @@ Hi everyone! I'm working on '30 Days of Data Structures and Algorithms in Python
 </tbody>
 </table>
 </div>
+
+> [!NOTE]
+> This tutorial is a crash course. I tried to cover as much as I can but it's not a comprehensive tutorial.
