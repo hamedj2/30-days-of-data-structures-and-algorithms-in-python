@@ -9,7 +9,7 @@ Python, renowned for its readability and efficiency, is a high-level, interprete
 Download from [python.org](https://www.python.org/downloads/windows/), choose the installer, and follow the prompts. Ensure you tick 'Add Python to PATH'.
 
 <img src='/Files/Images/mac-icon.png' width='25' align='center'> </img> **MacOS:** 
-Use [python.org](https://www.python.org/downloads/macos/) or [Homebrew:](https://docs.brew.sh/Homebrew-and-Python) brew install python.
+Use [python.org](https://www.python.org/downloads/macos/) or [Homebrew](https://docs.brew.sh/Homebrew-and-Python) -> $ brew install python.
 
 <img src='/Files/Images/Linux-icon.png' width='25' align='center'> </img>
 **Linux:** Python is usually pre-installed. Verify by typing python3 --version in the terminal. If not, use your package manager, like sudo apt install python3 for Ubuntu.
