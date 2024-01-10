@@ -30,7 +30,7 @@ Hi everyone! I'm working on '30 Days of Data Structures and Algorithms in Python
 <!-- Day 3 -->
 <tr>
 <td><a href="Day 3 - Functions and Modular Programming/Day 3.md">Day 3</a></td>
-<td> 🧩 Functions and Modular Programming <ul><li>Writing and Using Functions</li><li>Modular Programming Concepts</li></ul></td>
+<td> 🧩 Functions and Modular Programming <ul><li>Writing and Using Functions</li><li>Arguments, Return Values, and Scope</li><li>Lambda Functions and Map/Filter/Reduce</li><li>Modular Programming Concepts</li></ul></td>
 </tr>
 
 <!-- Day 4 -->
