@@ -24,7 +24,7 @@ Hi everyone! I'm working on '30 Days of Data Structures and Algorithms in Python
 <!-- Day 2 -->
 <tr>
 <td><a href="Day 2 - Python Data Types and Control Structures/Day 2.md">Day 2</a></td>
-<td> 🔢 Python Data Types and Control Structures <ul><li>Understanding Data Types: Strings, Integers, Floats</li><li>Control Structures: If-Else, Loops</li></ul></td>
+<td> 🔢 Python Data Types and Control Structures <ul><li>Understanding Data Types: Strings, Integers, Floats, Dictionaries, Sets</li><li>Control Structures: If-Else, Loops</li></ul></td>
 </tr>
 
 <!-- Day 3 -->
