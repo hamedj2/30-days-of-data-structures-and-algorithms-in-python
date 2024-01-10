@@ -2,10 +2,10 @@
 
 # Day 1
 
-## Python Overview:
+# Python Overview:
 Python, renowned for its readability and efficiency, is a high-level, interpreted language. It's famed for its simplicity, making it an excellent choice for beginners, yet powerful enough for complex applications.
 
-### Installing Python:
+## Installing Python:
 
 <img src='/Files/Images/windows-icon.png' width='30' align='center'> </img> **Windows:** 
 Download from [python.org](https://www.python.org/downloads/windows/), choose the installer, and follow the prompts. Ensure you tick 'Add Python to PATH'.
@@ -16,9 +16,9 @@ Use [python.org](https://www.python.org/downloads/macos/) to install on macOS or
 <img src='/Files/Images/Linux-icon.png' width='30' align='center'> </img>
 **Linux:** Python is usually pre-installed. Verify by typing `python3 --version` in the terminal. If not, use your package manager, like `sudo apt install python3` for Ubuntu.
 
-## Python Basics and Operations
+# Python Basics and Operations
 
-### Arithmetic Operations
+## Arithmetic Operations
 
 - [ ] Addition -> ` + ` <br>
 - [ ] Subtraction -> ` - ` <br>
@@ -46,7 +46,7 @@ print(2 ** 3)  # 8
 </details>
 
 
-### Comparison Operations
+## Comparison Operations
 
 - [ ] Equal -> ` == ` Checks if two values are equal. <br>
 - [ ] Not Equal -> ` != ` Checks if two values are not equal. <br>
@@ -70,7 +70,7 @@ print(8 <= 8)  # True
 ```
 </details>
 
-### Logical Operations
+## Logical Operations
 
 - [ ] And -> ` and ` Returns True if both operands are true. <br>
 - [ ] Or -> ` or ` Returns True if at least one operand is true. <br>
@@ -88,7 +88,7 @@ print(not True)  # False
 ```
 </details>
 
-### Bitwise Operations
+## Bitwise Operations
 
 
 
