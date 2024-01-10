@@ -8,10 +8,17 @@
 <strong>What is in day 1?</strong>  
 </summary>
 
-   [Python Overview](#Python-Overview)
-
+   - [Python Overview](#Python-Overview)
+      - [Installing Python](#Installing-Python)
+   - [Python Basics and Operations](#Python-Basics-and-Operations)
+      - [Arithmetic Operations](#Arithmetic-Operations)
+      - [Comparison Operations](#Comparison-Operations)
+      - [Logical Operations](#Logical-Operations)
+      - [Bitwise Operations](#Bitwise-Operations)
+    
 
 </details>
+
 
 <br>
 
