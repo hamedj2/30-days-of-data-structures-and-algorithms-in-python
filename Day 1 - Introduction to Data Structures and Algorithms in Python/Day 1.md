@@ -1,3 +1,5 @@
+<img src='Files/Images/Header.jpg'>
+
 # Day 1
 
 ## Python Overview:
