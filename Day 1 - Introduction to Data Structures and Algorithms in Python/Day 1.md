@@ -2,7 +2,20 @@
 
 # Day 1
 
-# Python Overview:
+<br>
+<details>
+<summary>
+<strong>What is in day 1?</strong>  
+</summary>
+
+   [Python Overview](#Python-Overview)
+
+
+</details>
+
+<br>
+
+# Python Overview
 Python, renowned for its readability and efficiency, is a high-level, interpreted language. It's famed for its simplicity, making it an excellent choice for beginners, yet powerful enough for complex applications.
 
 ## Installing Python:
@@ -15,6 +28,9 @@ Use [python.org](https://www.python.org/downloads/macos/) to install on macOS or
 
 <img src='/Files/Images/Linux-icon.png' width='30' align='center'> </img>
 **Linux:** Python is usually pre-installed. Verify by typing `python3 --version` in the terminal. If not, use your package manager, like `sudo apt install python3` for Ubuntu.
+
+<br>
+<br>
 
 # Python Basics and Operations
 
