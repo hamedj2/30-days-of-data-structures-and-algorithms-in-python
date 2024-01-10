@@ -1,4 +1,4 @@
-<img src='Files/Images/Header.jpg'>
+<img src='./Files/Images/Header.jpg'>
 
 # Day 1
 
