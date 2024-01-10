@@ -36,13 +36,13 @@ Hi everyone! I'm working on '30 Days of Data Structures and Algorithms in Python
 <!-- Day 4 -->
 <tr>
 <td><a href="Day 4 - Object-Oriented Programming Basics/Day 4.md">Day 4</a></td>
-<td> 🤖 Object-Oriented Programming Basics <ul><li>Introduction to OOP: Classes and Objects</li><li>Implementing Simple Classes</li></ul></td>
+<td> 🤖 Object-Oriented Programming Basics <ul><li>Introduction to OOP: Classes and Objects</li><li>Implementing Simple Classes</li><li>Methods, Attributes, and the __init__ Constructor</li></ul></td>
 </tr>
 
 <!-- Day 5 -->
 <tr>
 <td><a href="Day 5 - Advanced OOP Concepts/Day 5.md">Day 5</a></td>
-<td> 🌐 Advanced OOP Concepts <ul><li>Inheritance and Polymorphism</li><li>Exception Handling in OOP</li></ul></td>
+<td> 🌐 Advanced OOP Concepts <ul><li>Inheritance, Polymorphism, and Encapsulation</li><li>Exception Handling in OOP</li></ul></td>
 </tr>
 
 <!-- Day 6 -->
