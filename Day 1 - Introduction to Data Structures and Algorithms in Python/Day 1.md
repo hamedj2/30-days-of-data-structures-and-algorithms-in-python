@@ -262,7 +262,7 @@ print(5 >> 1)  # 2
 
 
 
-<a href="Day 2 - Python Data Types and Control Structures/Day 2.md"> >> Day 2 </a> 
+<a href="../Day 2 - Python Data Types and Control Structures/Day 2.md"> >> Day 2 </a> 
    
 
 
