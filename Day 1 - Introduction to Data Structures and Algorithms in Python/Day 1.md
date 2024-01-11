@@ -51,6 +51,9 @@ Variables in Python store information and are dynamically typed, allowing their 
 - [ ] Float: Decimal numbers -> `temperature = 72.8`
 - [ ] Boolean: True or False -> `is_active = False`
 - [ ] List: Ordered collection of items -> `fruits = ["apple", "banana", "cherry"]`
+- [ ] Tuple: Immutable ordered collection of items -> `colors = ("red", "green", "blue")`
+- [ ] Set: Unordered collection of unique items -> `numbers = {1, 2, 3}`
+- [ ] Dictionary: Key-Value pairs -> `person = {"name": "John", "age": 30}`
 
 #### Examples of Variables
 
@@ -60,23 +63,22 @@ Variables in Python store information and are dynamically typed, allowing their 
 
 ```python
 
+# This is a single-line comment
+
+'''
+This is a multi-line comment
+spanning multiple lines
+'''
+
 greeting = "Hello, World!"   # String: Textual data
 count = 42   # Integer: Whole numbers
 temperature = 98.6   # Float: Decimal numbers
 is_active = False   # Boolean: True or False
 fruits = ["apple", "banana", "cherry"] # List: Ordered collection of items
-
-# Tuple: Immutable ordered collection of items
-colors = ("red", "green", "blue")
-
-# Set: Unordered collection of unique items
-numbers = {1, 2, 3}
-
-# Dictionary: Key-Value pairs
-person = {"name": "John", "age": 30}
-
-# Basic variable assignment
-name = "Alice"
+colors = ("red", "green", "blue")   # Tuple: Immutable ordered collection of items
+numbers = {1, 2, 3}   # Set: Unordered collection of unique items
+person = {"name": "John", "age": 30}   # Dictionary: Key-Value pairs
+name = "Alice"   # Basic variable assignment
 
 # Strings with escape sequences
 text = "Line1\nLine2\\nLine3"
@@ -105,13 +107,6 @@ mixed_dict = {1: 'integer', 'string': 2, (3, 4): 'tuple'}
 
 # Constants (by convention, in uppercase)
 PI = 3.14159
-
-# This is a single-line comment
-
-'''
-This is a multi-line comment
-spanning multiple lines
-'''
 
 ```
 
