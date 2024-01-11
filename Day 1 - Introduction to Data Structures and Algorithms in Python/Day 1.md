@@ -156,14 +156,14 @@ print(5 >> 1)  # 2
 
 ## Assignment Operations
 
-- [ ] Equal -> `=` Assigns the value on the right to the variable on the left.
-- [ ] Addition Assignment -> `+=` Adds the right operand to the left operand and assigns the result to the left operand.
-- [ ] Subtraction Assignment -> `-=` Subtracts the right operand from the left operand and assigns the result to the left operand.
-- [ ] Multiplication Assignment -> `*=` Multiplies the left operand by the right operand and assigns the result to the left operand.
-- [ ] Division Assignment -> `/=` Divides the left operand by the right operand and assigns the result to the left operand.
-- [ ] Floor Division Assignment -> `//=` Performs floor division on the operands and assigns the result to the left operand.
-- [ ] Modulus Assignment -> `%=` Takes the modulus using the two operands and assigns the result to the left operand.
-- [ ] Exponentiation Assignment -> `**=` Performs exponential (power) calculation on the operands and assigns the value to the left operand.
+- [ ] Equal `=`: Assigns right value to left variable.
+- [ ] Addition Assignment `+=`: Adds right to left, assigns to left.
+- [ ] Subtraction Assignment `-=`: Subtracts right from left, assigns to left.
+- [ ] Multiplication Assignment `*=`: Multiplies left with right, assigns to left.
+- [ ] Division Assignment `/=`: Divides left by right, assigns to left.
+- [ ] Floor Division Assignment `//=`: Divides left by right, rounds down, assigns to left.
+- [ ] Modulus Assignment `%=`: Computes remainder of left divided by right, assigns to left.
+- [ ] Exponentiation Assignment `**=`: Raises left to power of right, assigns to left.
 
 <details>
 <summary>
