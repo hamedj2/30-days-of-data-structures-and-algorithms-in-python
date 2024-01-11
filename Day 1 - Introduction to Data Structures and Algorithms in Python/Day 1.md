@@ -41,6 +41,41 @@ Use [python.org](https://www.python.org/downloads/macos/) to install on macOS or
 
 # Python Basics and Operations
 
+## Variables
+
+Variables are used to store information and are dynamically typed in Python, meaning their data type can change.
+
+#### Examples of Variables
+
+<details>
+
+<summary>Click to view examples</summary>
+
+```python
+# Basic variable assignment
+name = "Alice"
+
+# Dynamic typing (changing variable data type)
+num = 10    # Initially an integer
+num = "Ten" # Now a string
+
+# Unpacking a sequence
+x, y, z = [1, 2, 3]
+
+# Using underscore for unused variables
+_, b, _ = (1, 2, 3)  # b is 2; 1 and 3 are ignored
+
+# Variable names (including underscores and digits)
+first_name = "Alice"
+_last_name = "Smith"
+age1 = 25
+
+# Constants (by convention, in uppercase)
+PI = 3.14159
+```
+
+</details>
+
 ## Arithmetic Operations
 
 - [ ] Addition -> ` + ` <br>
