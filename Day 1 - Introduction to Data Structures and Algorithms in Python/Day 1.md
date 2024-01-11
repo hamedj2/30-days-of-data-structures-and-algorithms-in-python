@@ -69,6 +69,34 @@ print(2 ** 3)  # 8
 </details>
 
 
+## Assignment Operations
+
+- [ ] Equal `=`: Assigns right value to left variable.
+- [ ] Addition Assignment `+=`: Adds right to left, assigns to left.
+- [ ] Subtraction Assignment `-=`: Subtracts right from left, assigns to left.
+- [ ] Multiplication Assignment `*=`: Multiplies left with right, assigns to left.
+- [ ] Division Assignment `/=`: Divides left by right, assigns to left.
+- [ ] Floor Division Assignment `//=`: Divides left by right, rounds down, assigns to left.
+- [ ] Modulus Assignment `%=`: Computes remainder of left divided by right, assigns to left.
+- [ ] Exponentiation Assignment `**=`: Raises left to power of right, assigns to left.
+
+<details>
+<summary>
+<strong>Examples for Assignment Operations</strong>  
+</summary>
+  
+```python
+x = 100     # Initial: x = 100
+x += 20     # Addition: x = 100 + 20, so x = 120
+x -= 50     # Subtraction: x = 120 - 50, so x = 70
+x *= 2      # Multiplication: x = 70 * 2, so x = 140
+x /= 10     # Division: x = 140 / 10, so x = 14.0
+x //= 5     # Floor Division: x = 14.0 // 5, so x = 2.0
+x %= 3      # Modulus: x = 2.0 % 3, so x = 2.0
+x **= 3     # Exponentiation: x = 2.0 ** 3, so x = 8.0
+```
+</details>
+
 ## Comparison Operations
 
 - [ ] Equal -> ` == ` Checks if two values are equal. <br>
@@ -154,30 +182,3 @@ print(5 >> 1)  # 2
 ```
 </details>
 
-## Assignment Operations
-
-- [ ] Equal `=`: Assigns right value to left variable.
-- [ ] Addition Assignment `+=`: Adds right to left, assigns to left.
-- [ ] Subtraction Assignment `-=`: Subtracts right from left, assigns to left.
-- [ ] Multiplication Assignment `*=`: Multiplies left with right, assigns to left.
-- [ ] Division Assignment `/=`: Divides left by right, assigns to left.
-- [ ] Floor Division Assignment `//=`: Divides left by right, rounds down, assigns to left.
-- [ ] Modulus Assignment `%=`: Computes remainder of left divided by right, assigns to left.
-- [ ] Exponentiation Assignment `**=`: Raises left to power of right, assigns to left.
-
-<details>
-<summary>
-<strong>Examples for Assignment Operations</strong>  
-</summary>
-  
-```python
-x = 100     # Initial: x = 100
-x += 20     # Addition: x = 100 + 20, so x = 120
-x -= 50     # Subtraction: x = 120 - 50, so x = 70
-x *= 2      # Multiplication: x = 70 * 2, so x = 140
-x /= 10     # Division: x = 140 / 10, so x = 14.0
-x //= 5     # Floor Division: x = 14.0 // 5, so x = 2.0
-x %= 3      # Modulus: x = 2.0 % 3, so x = 2.0
-x **= 3     # Exponentiation: x = 2.0 ** 3, so x = 8.0
-```
-</details>
