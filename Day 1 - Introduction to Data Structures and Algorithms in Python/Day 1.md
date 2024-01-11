@@ -259,6 +259,9 @@ print(5 >> 1)  # 2
 2. Write a program that calculates the area of a circle, given its radius. Use PI = 3.14159 for the value of PI.
 3. Given two variables, use comparison operations to check their relationship (e.g., equal, not equal, greater than, etc.) and print the outcomes.
 4. Write a script that checks if a number is positive and even using logical operations. Test your script with different numbers.
+
+
+>> [Day2](Day 2 - Python Data Types and Control Structures/Day 2.md)
    
 
 
