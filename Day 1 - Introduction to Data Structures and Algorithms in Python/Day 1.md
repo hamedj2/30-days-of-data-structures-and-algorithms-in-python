@@ -171,13 +171,13 @@ print(5 >> 1)  # 2
 </summary>
   
 ```python
-x = 5       # x is now 5
-x += 3      # x is now 8
-x -= 2      # x is now 6
-x *= 2      # x is now 12
-x /= 4      # x is now 3.0
-x //= 2     # x is now 1.0
-x %= 1      # x is now 0.0
-x **= 3     # x is now 0.0
+x = 100     # Initial: x = 100
+x += 20     # Addition: x = 100 + 20, so x = 120
+x -= 50     # Subtraction: x = 120 - 50, so x = 70
+x *= 2      # Multiplication: x = 70 * 2, so x = 140
+x /= 10     # Division: x = 140 / 10, so x = 14.0
+x //= 5     # Floor Division: x = 14.0 // 5, so x = 2.0
+x %= 3      # Modulus: x = 2.0 % 3, so x = 2.0
+x **= 3     # Exponentiation: x = 2.0 ** 3, so x = 8.0
 ```
 </details>
