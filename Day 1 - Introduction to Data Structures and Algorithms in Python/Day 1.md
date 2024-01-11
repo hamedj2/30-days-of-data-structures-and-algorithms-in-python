@@ -261,7 +261,8 @@ print(5 >> 1)  # 2
 4. Write a script that checks if a number is positive and even using logical operations. Test your script with different numbers.
 
 
->> [Day2](Day 2 - Python Data Types and Control Structures/Day 2.md)
+
+<a href="Day 2 - Python Data Types and Control Structures/Day 2.md"> >> Day 2 </a> 
    
 
 
