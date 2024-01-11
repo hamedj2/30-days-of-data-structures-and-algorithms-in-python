@@ -29,7 +29,6 @@
 
 **Operations:**
 - `Concatenation`: Combining strings using `+`
-         - `"Hello" + " World" results in "Hello World"`
 - `Repetition`: Repeating strings using `*`.
 - `Indexing`: Accessing characters by their position.
 - `Slicing`: Extracting a part of a string.
@@ -42,3 +41,18 @@
 - `.join()`: Joining a list into a string.
 - `.replace()`: Replacing parts of a string.
 - `.find()`, `.index()`: Finding substrings.
+
+<details>
+<summary>
+<strong>String Examples</strong>  
+</summary
+
+```python
+
+Concatenation = "Hello" + " " + "World!"
+Repetition  
+    
+
+```
+
+</details>
