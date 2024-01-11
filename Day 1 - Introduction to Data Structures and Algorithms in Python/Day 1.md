@@ -154,3 +154,40 @@ print(5 >> 1)  # 2
 ```
 </details>
 
+## Assignment Operations
+
+- [ ] Equal -> `=` Assigns the value on the right to the variable on the left.
+- [ ] Addition Assignment -> `+=` Adds the right operand to the left operand and assigns the result to the left operand.
+- [ ] Subtraction Assignment -> `-=` Subtracts the right operand from the left operand and assigns the result to the left operand.
+- [ ] Multiplication Assignment -> `*=` Multiplies the left operand by the right operand and assigns the result to the left operand.
+- [ ] Division Assignment -> `/=` Divides the left operand by the right operand and assigns the result to the left operand.
+- [ ] Floor Division Assignment -> `//=` Performs floor division on the operands and assigns the result to the left operand.
+- [ ] Modulus Assignment -> `%=` Takes the modulus using the two operands and assigns the result to the left operand.
+- [ ] Exponentiation Assignment -> `**=` Performs exponential (power) calculation on the operands and assigns the value to the left operand.
+- [ ] Bitwise AND Assignment -> `&=` Performs bitwise AND on the operands and assigns the result to the left operand.
+- [ ] Bitwise OR Assignment -> `|=` Performs bitwise OR on the operands and assigns the result to the left operand.
+- [ ] Bitwise XOR Assignment -> `^=` Performs bitwise XOR on the operands and assigns the result to the left operand.
+- [ ] Bitwise Left Shift Assignment -> `<<=` Shifts the left operand's bits to the left by the number of positions specified by the right operand and assigns the result to the left operand.
+- [ ] Bitwise Right Shift Assignment -> `>>=` Shifts the left operand's bits to the right by the number of positions specified by the right operand and assigns the result to the left operand.
+
+<details>
+<summary>
+<strong>Examples for Assignment Operations</strong>  
+</summary>
+  
+```python
+x = 5       # x is now 5
+x += 3      # x is now 8
+x -= 2      # x is now 6
+x *= 2      # x is now 12
+x /= 4      # x is now 3.0
+x //= 2     # x is now 1.0
+x %= 1      # x is now 0.0
+x **= 3     # x is now 0.0
+x &= 3      # x is now 0
+x |= 2      # x is now 2
+x ^= 3      # x is now 1
+x <<= 2     # x is now 4
+x >>= 1     # x is now 2
+```
+</details>
