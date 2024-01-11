@@ -28,7 +28,8 @@
 
 
 **Operations:**
-- `Concatenation`: Combining strings using `+` - > `"Hello" + " World" results in "Hello World"`
+- `Concatenation`: Combining strings using `+`
+         `"Hello" + " World" results in "Hello World"`
 - `Repetition`: Repeating strings using `*`.
 - `Indexing`: Accessing characters by their position.
 - `Slicing`: Extracting a part of a string.
