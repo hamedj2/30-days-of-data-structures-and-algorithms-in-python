@@ -43,7 +43,7 @@ Use [python.org](https://www.python.org/downloads/macos/) to install on macOS or
 
 ## Variables
 
-Variables are used to store information and are dynamically typed in Python, meaning their data type can change.
+Variables in Python store information and are dynamically typed, allowing their data type to change during execution. Additionally, Python offers a variety of data types, each defining the characteristics and operations possible on the data they represent.
 
 #### Examples of Variables
 
