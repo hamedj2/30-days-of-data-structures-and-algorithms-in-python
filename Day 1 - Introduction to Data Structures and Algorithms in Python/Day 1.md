@@ -253,3 +253,6 @@ print(5 >> 1)  # 2
 ```
 </details>
 
+## Exercise
+- [1] Declare variables of different data types (including list, tuple, set, and dictionary) and print their types using the type() function.
+
