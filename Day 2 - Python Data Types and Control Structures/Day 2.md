@@ -19,8 +19,11 @@
 # Data Types
 
 ## Strings
+
 **Definition:** Strings in Python are sequences of characters.
+
 **Creation:** You can create strings using single, double, or triple quotes.
+
 **Immutability:** Once a string is created, it cannot be changed.
 
 
