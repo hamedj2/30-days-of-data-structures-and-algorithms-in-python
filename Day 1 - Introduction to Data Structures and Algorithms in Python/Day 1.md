@@ -52,12 +52,44 @@ Variables are used to store information and are dynamically typed in Python, mea
 <summary>Click to view examples</summary>
 
 ```python
+
+# String: Textual data
+greeting = "Hello, World!"
+
+# Integer: Whole numbers
+count = 42
+
+# Float: Decimal numbers
+temperature = 98.6
+
+# Boolean: True or False
+is_active = False
+
+# List: Ordered collection of items
+fruits = ["apple", "banana", "cherry"]
+
+# Tuple: Immutable ordered collection of items
+colors = ("red", "green", "blue")
+
+# Set: Unordered collection of unique items
+numbers = {1, 2, 3}
+
+# Dictionary: Key-Value pairs
+person = {"name": "John", "age": 30}
+
 # Basic variable assignment
 name = "Alice"
+
+# Strings with escape sequences
+text = "Line1\nLine2\\nLine3"
 
 # Dynamic typing (changing variable data type)
 num = 10    # Initially an integer
 num = "Ten" # Now a string
+
+# Tuple unpacking and reassignment
+a, b = (1, 2)
+a, b = b, a  # Swapping values
 
 # Unpacking a sequence
 x, y, z = [1, 2, 3]
@@ -70,8 +102,19 @@ first_name = "Alice"
 _last_name = "Smith"
 age1 = 25
 
+# Dictionary with various key types
+mixed_dict = {1: 'integer', 'string': 2, (3, 4): 'tuple'}
+
 # Constants (by convention, in uppercase)
 PI = 3.14159
+
+# This is a single-line comment
+
+'''
+This is a multi-line comment
+spanning multiple lines
+'''
+
 ```
 
 </details>
