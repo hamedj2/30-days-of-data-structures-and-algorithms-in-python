@@ -11,6 +11,7 @@
    - [Python Overview](#Python-Overview)
       - [Installing Python](#Installing-Python)
    - [Python Basics and Operations](#Python-Basics-and-Operations)
+      - [Variables and Data Types](#Variables-and-Data-Types)
       - [Arithmetic Operations](#Arithmetic-Operations)
       - [Comparison Operations](#Comparison-Operations)
       - [Logical Operations](#Logical-Operations)
@@ -41,7 +42,7 @@ Use [python.org](https://www.python.org/downloads/macos/) to install on macOS or
 
 # Python Basics and Operations
 
-## Variables
+## Variables and Data Types
 
 Variables in Python store information and are dynamically typed, allowing their data type to change during execution. Additionally, Python offers a variety of data types, each defining the characteristics and operations possible on the data they represent.
 
