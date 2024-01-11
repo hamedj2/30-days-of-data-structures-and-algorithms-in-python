@@ -28,16 +28,16 @@
 
 
 **Operations:**
-- Concatenation: Combining strings using +.
-- Repetition: Repeating strings using *.
-- Indexing: Accessing characters by their position.
-- Slicing: Extracting a part of a string.
+- `Concatenation`: Combining strings using `+`.
+- `Repetition`: Repeating strings using `*`.
+- `Indexing`: Accessing characters by their position.
+- `Slicing`: Extracting a part of a string.
 
 
 **Methods:**
-- .upper(), .lower(): For case conversion.
-- .strip(): Removing whitespace.
-- .split(): Splitting a string into a list.
-- .join(): Joining a list into a string.
-- .replace(): Replacing parts of a string.
-- .find(), .index(): Finding substrings.
+- `.upper()`, `.lower()`: For case conversion.
+- `.strip()`: Removing whitespace.
+- `.split()`: Splitting a string into a list.
+- `.join()`: Joining a list into a string.
+- `.replace()`: Replacing parts of a string.
+- `.find()`, `.index()`: Finding substrings.
