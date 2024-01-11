@@ -46,6 +46,12 @@ Use [python.org](https://www.python.org/downloads/macos/) to install on macOS or
 
 Variables in Python store information and are dynamically typed, allowing their data type to change during execution. Additionally, Python offers a variety of data types, each defining the characteristics and operations possible on the data they represent.
 
+- [ ] String: Texual data -> `greeting = "Hello, World!"`
+- [ ] Integer: Whole numbers -> `count = 42`
+- [ ] Float: Decimal numbers -> `temperature = 72.8`
+- [ ] Boolean: True or False -> `is_active = False`
+- [ ] List: Ordered collection of items -> `fruits = ["apple", "banana", "cherry"]`
+
 #### Examples of Variables
 
 <details>
@@ -54,20 +60,11 @@ Variables in Python store information and are dynamically typed, allowing their 
 
 ```python
 
-# String: Textual data
-greeting = "Hello, World!"
-
-# Integer: Whole numbers
-count = 42
-
-# Float: Decimal numbers
-temperature = 98.6
-
-# Boolean: True or False
-is_active = False
-
-# List: Ordered collection of items
-fruits = ["apple", "banana", "cherry"]
+greeting = "Hello, World!"   # String: Textual data
+count = 42   # Integer: Whole numbers
+temperature = 98.6   # Float: Decimal numbers
+is_active = False   # Boolean: True or False
+fruits = ["apple", "banana", "cherry"] # List: Ordered collection of items
 
 # Tuple: Immutable ordered collection of items
 colors = ("red", "green", "blue")
