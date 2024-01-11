@@ -16,6 +16,7 @@
       - [Comparison Operations](#Comparison-Operations)
       - [Logical Operations](#Logical-Operations)
       - [Bitwise Operations](#Bitwise-Operations)
+   - [Day 1 Exercises](#Day-1-Exercises)
     
 
 </details>
@@ -253,7 +254,7 @@ print(5 >> 1)  # 2
 ```
 </details>
 
-## Exercise
+# Day 1 Exercises
 1. Declare variables of different data types (including list, tuple, set, and dictionary) and print their types using the type() function.
 2. Write a program that calculates the area of a circle, given its radius. Use PI = 3.14159 for the value of PI.
 3. Given two variables, use comparison operations to check their relationship (e.g., equal, not equal, greater than, etc.) and print the outcomes.
