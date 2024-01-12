@@ -9,6 +9,13 @@
 </summary>
 
    - [Data Types](#Data-Types)
+      - [Strings]
+      - [Integers and Floats]
+      - [Lists]
+      - [Tuples]
+      - [Sets]
+      - [Dictionaries]
+      
     
 
 </details>
@@ -56,3 +63,13 @@ Repetition
 ```
 
 </details>
+
+## Integers and Floats
+
+`Integers`: Whole numbers, positive or negative, without a fractional part.
+
+`Floats`: Numbers with a decimal point.
+
+**Arithmetic Operations:** `+`,` -`, `*`,`/`, `//` (floor division), `%` (modulus), `**` (exponentiation).
+
+Type Conversion: Use `int()` and `float()` to convert between types.
