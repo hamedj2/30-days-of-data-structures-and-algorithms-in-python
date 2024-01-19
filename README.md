@@ -3,7 +3,7 @@
 Hi everyone! I'm working on '30 Days of Data Structures and Algorithms in Python'. As a PhD student, I'm refreshing my Python skills and revisiting essential concepts. This project is focused on simple, understandable learning, designed to bring you a new topic each day. While I share what I learn, I encourage you to move at a pace that suits you best. Whether you're just starting out or in need of a quick refresher, remember that it's okay if the 30-day plan feels intense - take the time you need to fully grasp each concept. It's not just about keeping to a schedule; it's about truly understanding and comfortably applying what we learn. And since this is an open-source project, your feedback and suggestions are invaluable. They help in refining and enhancing this learning experience for all. So, whether you're breezing through the topics or taking it one step at a time, I'm excited to have you join in.
 
 
-<a href="Day 1 - Introduction to Data Structures and Algorithms in Python/Day 1.md"> >> Day 1 </a> 
+<a href="Day 1 - Introduction to Data Structures and Algorithms in Python/Day 1.md"> >>  Day 1 </a> 
 
 <div align="center">
 <table style="width: 100%;">
