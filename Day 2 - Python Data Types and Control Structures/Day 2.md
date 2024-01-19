@@ -124,10 +124,12 @@ Popping (pop(index)): Removes and returns an item at the given index.
 Sorting (sort()): Sorts the list in place.
 Reversing (reverse()): Reverses the list in place.
 List Comprehensions: A concise way to create lists. E.g., [x**2 for x in range(10)].
+
 4. Tuples
 Indexing/Slicing: Same as lists.
 Count (count(item)): Counts the number of occurrences of an item.
 Index (index(item)): Finds the first occurrence of an item.
+
 5. Dictionaries
 Accessing/Setting (dict[key]): Access or set the value for a key.
 Getting (get(key, default)): Returns the value for a key, or default if the key doesn't exist.
@@ -135,6 +137,7 @@ Updating (update(other_dict)): Adds key-value pairs from another dictionary.
 Keys/Values/Items (keys(), values(), items()): Return views of the dictionary's keys, values, and key-value pairs.
 Removing (pop(key)): Removes a key-value pair and returns the value.
 Dictionary Comprehensions: Similar to list comprehensions but for dictionaries. E.g., {x: x**2 for x in range(10)}.
+
 6. Sets
 Adding (add(item)): Adds an element to the set.
 Removing (remove(item)): Removes an element from the set. Raises an error if the element is not present.
