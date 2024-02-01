@@ -151,6 +151,8 @@ Symmetric Difference (^): Elements in either set, but not in both.
 
 ------
 
+Need to be completed
+
 ```python
 
 1. Strings
@@ -196,6 +198,7 @@ floor_division = 5 // 3  # 1
 modulus = 5 % 3  # 2
 exponentiation = 5 ** 3  # 125
 
+
 3. Lists
 
 # Creating a List
@@ -228,6 +231,7 @@ my_list.reverse()  # [6, 5, 4, 3, 2]
 
 # List Comprehensions
 squares = [x**2 for x in range(5)]  # [0, 1, 4, 9, 16]
+
 
 4. Tuples
 
@@ -303,3 +307,4 @@ squared_set = {x**2 for x in range(4)}  # {0, 1, 4, 9}
 Frozensets: Immutable version of a set.
 frozen = frozenset([1, 2, 3])
 
+----- end
